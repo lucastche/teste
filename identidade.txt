@@ -1,3 +1,8 @@
 nome: joão
 
 cpf 56310595172
+
+idade = 19
+altura = 1,79m
+
+cor de cabelo = azul
